@@ -42,7 +42,7 @@
         }
         
         .inicio {
-            background: rgba(88, 240, 245, 0.164);
+            /*  background: rgba(88, 240, 245, 0.164); */
             display: flex;
             flex-direction: column;
             justify-content: center;
